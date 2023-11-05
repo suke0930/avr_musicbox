@@ -49,5 +49,10 @@
 6. arduino ideで読み込ませ、hex書き出しもしくは書き込みをする
 ## 注意点
 ![img](https://github.com/suke0930/avr_musicbox/assets/121690168/2ab1f0bb-a36f-4e41-a3f2-30ff72e2e766)
+</br>
 このように一つも音が存在しないトラックが生成される場合があります。
 これらは不要なので、定義をすべて消してください。
+
+### 修正例
+</br>
+![img](https://github.com/suke0930/avr_musicbox/assets/121690168/16b0c778-884d-4c9f-b054-f762708c4ae2)
