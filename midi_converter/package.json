@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "fs": "^0.0.1-security",
+    "pkg": "^5.8.1",
+    "tone": "^14.7.77",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.8"
+  }
+}
