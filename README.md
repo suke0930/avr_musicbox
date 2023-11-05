@@ -48,6 +48,6 @@
 5. run.batでmidiを変換します。<br>
 6. arduino ideで読み込ませ、hex書き出しもしくは書き込みをする
 ## 注意点
-![img](https://github.com/suke0930/avr_musicbox/assets/121690168/a50853fe-0bb1-4500-b323-cb648e48933d)
+![img](https://github.com/suke0930/avr_musicbox/assets/121690168/2ab1f0bb-a36f-4e41-a3f2-30ff72e2e766)
 このように一つも音が存在しないトラックが生成される場合があります。
 これらは不要なので、定義をすべて消してください。
