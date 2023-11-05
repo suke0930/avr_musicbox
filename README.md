@@ -90,3 +90,13 @@ atmega328pもしくはadruno unoを想定しています。
 @suke0930
 Email akitochuanshanh@gmail.com
 discord: suke_6183
+
+# forked
+https://github.com/P0keDev/Midi2Arduino
+<br>
+<a href="https://github.com/P0keDev">P0keDev様</a>の<a href="https://github.com/P0keDev/Midi2Arduino">Midi2Arduino</a>のソースコードを本レポジトリでは使用しています。<br>
+このレポジトリに含まれる上記のレポジトリと一致・酷似している部分はP0keDev様に帰属するものとします。
+
+# 教育機関等での利用について
+もし本ソースコード・レポジトリを利用なさる際、本メールアドレスに一報いただけると幸いです。<br>
+基本的に利用制限は一切ございませんので利用自体は個人・団体もしくはその他の機関問わずご利用いただけます。
