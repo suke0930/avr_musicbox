@@ -87,8 +87,11 @@ atmega328pもしくはadruno unoを想定しています。
 
 # 詳細に関するなにか or お問い合わせ
 下記にお願いします。
+<br>
 @suke0930
+<br>
 Email akitochuanshanh@gmail.com
+<br>
 discord: suke_6183
 
 # forked
