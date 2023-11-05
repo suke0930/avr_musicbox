@@ -9,9 +9,12 @@ atmega328pもしくはadruno unoを想定しています。
 また、上記画像は東方projectの二次創作となります。
 
 <details><summary>ディレクトリ構造</summary>
+
 -   /Midi2Arduino_original
-    -   
+<br>
+    -  
     フォーク元のレポジトリ(Midi2Arduino)です。
+
 -   /midi_converter
     -   
     既存のMIDIの音が被っている部分（同時発音の和音ではありません）を自動的に除去するツールのソースコードです。
