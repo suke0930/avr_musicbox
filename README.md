@@ -2,7 +2,7 @@
 
 ![00016-673422717](https://github.com/suke0930/avr_musicbox/assets/121690168/943b3486-ad5e-4aeb-a344-e59e8b00bc3f)
 
-![英好祭電子工作リストポスター案1](https://github.com/suke0930/avr_musicbox/assets/121690168/7d2ed662-5ee2-4146-9102-b17c3ec44ac8)
+![電子工作リストポスター案1](https://github.com/suke0930/avr_musicbox/assets/121690168/7d2ed662-5ee2-4146-9102-b17c3ec44ac8)
 # avr_musicbox
 令和5年の文化祭で作成した電子オルゴールのソースと開発資料です。
 atmega328pもしくはadruno unoを想定しています。
